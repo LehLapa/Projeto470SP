@@ -19,9 +19,12 @@
 <a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o#narrativa"> Narrativa <a>
 
 # Fases e Descricões 
+<a href="https://github.com/LehLapa/Projeto470SP/wiki/Fases"> Detalhamento das Fases <a>
 
 # Personagens 
 
+
 # Puzzle e Mecânicas
+
 
 # Referências

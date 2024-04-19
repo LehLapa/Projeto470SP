@@ -1,5 +1,6 @@
-## Projeto em comemoração aos 470 anos de São Paulo
-<a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o">< Descrição>
+# <a href="https://github.com/LehLapa/Projeto470SP/wiki"> Projeto em comemoração aos 470 anos de São Paulo <a>
+
+- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o"> Descrição <a>
 
 # Integrantes 
 Aluna: Fernanda Viana Marcelino

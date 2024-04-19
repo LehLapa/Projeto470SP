@@ -10,6 +10,7 @@
 | [<img src="https://avatars.githubusercontent.com/u/127865166?v=4" width=115><br><sub>Robert Caio</sub>](https://github.com/Rob3rt2) | [<img src="https://avatars.githubusercontent.com/u/120103357?v=4" width=115><br><sub>Pedro Ferraz</sub>](https://github.com/PedroFRomao) | |
 | :---: | :---: | :---: 
 
+
 **Cursando**: ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais. 3ºA/2024
 
 ##

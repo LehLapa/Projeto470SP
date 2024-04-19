@@ -1,4 +1,4 @@
-# <a href="https://github.com/LehLapa/Projeto470SP/wiki"> Projeto em comemoração aos 470 anos de São Paulo <a>
+# <a href="https://github.com/LehLapa/Projeto470SP/wiki"> Projeto em Comemoração aos 470 anos de São Paulo <a>
 
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Descrição"> Descrição <a>
 

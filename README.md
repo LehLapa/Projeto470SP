@@ -1,5 +1,5 @@
 ## Projeto em comemoração aos 470 anos de São Paulo
-- Descrição
+<a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o">< Descrição>
 
 # Integrantes 
 Aluna: Fernanda Viana Marcelino
@@ -10,12 +10,12 @@ Aluno: Pedro Ferraz Romão
 
 **Cursando**: ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais. 3ºA/2024
 ##
-## Narrativa
+# Narrativa
 
-## Fases e Descricões 
+# Fases e Descricões 
 
-## Personagens 
+# Personagens 
 
-## Puzzle e Mecânicas
+# Puzzle e Mecânicas
 
-## Referências
+# Referências

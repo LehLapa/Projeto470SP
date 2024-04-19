@@ -22,7 +22,7 @@
 <a href="https://github.com/LehLapa/Projeto470SP/wiki/Fases"> Detalhamento das Fases <a>
 
 # Personagens 
-
+<a href="https://github.com/LehLapa/Projeto470SP/wiki/Personagens"> Personagens, Nomes e Suas Funções <a>
 
 # Puzzle e Mecânicas
 

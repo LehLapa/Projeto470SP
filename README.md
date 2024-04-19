@@ -16,6 +16,7 @@
 **Cursando**: ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais. 3ºA/2024
 ##
 # Narrativa
+<a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o#narrativa"> Narrativa <a>
 
 # Fases e Descricões 
 

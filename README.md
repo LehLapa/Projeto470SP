@@ -28,3 +28,4 @@
 <a href="https://github.com/LehLapa/Projeto470SP/wiki/Puzzle-e-Mecânicas"> Puzzles <a>
 
 # Referências
+<a href="https://github.com/LehLapa/Projeto470SP/wiki/Referências"> Inspirações <a>

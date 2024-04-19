@@ -1,6 +1,6 @@
 # <a href="https://github.com/LehLapa/Projeto470SP/wiki"> Projeto em comemoração aos 470 anos de São Paulo <a>
 
-- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o"> Descrição <a>
+- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Descrição"> Descrição <a>
 
 # Integrantes 
 **Aluna:** Fernanda Viana Marcelino
@@ -16,7 +16,7 @@
 **Cursando**: ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais. 3ºA/2024
 ##
 # Narrativa
-- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o#narrativa"> Narrativa <a>
+- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o#narrativa"> Enredo, Motivação e Críticas <a>
 
 # Fases e Descricões 
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Fases"> Detalhamento das Fases <a>

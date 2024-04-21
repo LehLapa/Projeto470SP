@@ -15,7 +15,7 @@
 
 ##
 # Narrativa
-- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Descri%C3%A7%C3%A3o#narrativa"> Enredo, Motivação e Críticas <a>
+- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Enredo"> Enredo, Motivação e Críticas <a>
 
 # Fases e Descricões 
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Fases"> Detalhamento das Fases <a>

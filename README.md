@@ -4,7 +4,7 @@
 
 # Integrantes 
 
-| [<img src="https://avatars.githubusercontent.com/u/128320607?v=4" width=115><br><sub>Fernanda Viana</sub>](https://github.com/Fernanda-Marcelino) | [<img src="https://avatars.githubusercontent.com/u/127631052?v=4" width=115><br><sub>Cauã Silva</sub>](https://github.com/CauaSilva28) | [<img src="https://avatars.githubusercontent.com/u/128638269?v=4" width=115><br><sub>Letícia Lapa</sub>](https://github.com/LehLapa) | 
+| [<img src="https://avatars.githubusercontent.com/u/128320607?v=4" width=115><br><sub>Fernanda Viana</sub>](https://github.com/Fernanda-Marcelino) | [<img src="https://avatars.githubusercontent.com/u/127631052?v=4" width=115><br><sub>Cauã Silva</sub>](https://github.com/CauaSilva28) | [<img src="https://avatars.githubusercontent.com/u/128638269?s=400&u=7a7b5e528817cecb076a126a6345e7f9701aa536&v=4" width=115><br><sub>Letícia Lapa</sub>](https://github.com/LehLapa) | 
 | :---: | :---: | :---: 
 
 | [<img src="https://avatars.githubusercontent.com/u/127865166?v=4" width=115><br><sub>Robert Caio</sub>](https://github.com/Rob3rt2) | [<img src="https://avatars.githubusercontent.com/u/120103357?v=4" width=115><br><sub>Pedro Ferraz</sub>](https://github.com/PedroFRomao)   | 

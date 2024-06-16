@@ -29,3 +29,6 @@ Os integrantes a seguir, participaram e contribuíram para esse projeto existir!
 
 # Referências
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Referências"> Inspirações <a>
+
+# Desenvolvimento das Cenas
+- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-1"> Desenvolvimento Fase: Estação da Luz <a>

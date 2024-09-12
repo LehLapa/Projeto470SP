@@ -32,3 +32,5 @@ Os integrantes a seguir, participaram e contribuíram para esse projeto existir!
 
 # Desenvolvimento das Cenas
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-1"> Desenvolvimento Fase: Estação da Luz <a>
+
+- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-2"> Desenvolvimento Fase: Avenida Paulista <a>

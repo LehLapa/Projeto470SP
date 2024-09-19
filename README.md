@@ -34,3 +34,7 @@ Os integrantes a seguir, participaram e contribuíram para esse projeto existir!
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-1"> Desenvolvimento Fase: Estação da Luz <a>
 
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-2"> Desenvolvimento Fase: Avenida Paulista <a>
+
+- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-3"> Desenvolvimento Fase: CCBB (Centro Cultural do Banco do Brasil) <a>
+
+- <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-4"> Desenvolvimento Fase: Catedral da Sé <a>

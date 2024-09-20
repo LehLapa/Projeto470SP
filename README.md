@@ -41,6 +41,6 @@ Os integrantes a seguir, participaram e contribuíram para esse projeto existir!
 
 # Gameplay Completa 
 
-- O link irá te redirecionar para a plataforma Youtube.
+- O link irá te redirecionar para a plataforma Youtube. <a href="https://www.youtube.com/watch?v=WqXq81UbVvE"> Gameplay, Jogo Completo <a>
 
-- <a href="https://www.youtube.com/watch?v=WqXq81UbVvE"> Gameplay, Jogo Completo <a>
+

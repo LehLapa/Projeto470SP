@@ -38,3 +38,9 @@ Os integrantes a seguir, participaram e contribuíram para esse projeto existir!
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-3"> Desenvolvimento Fase: CCBB (Centro Cultural do Banco do Brasil) <a>
 
 - <a href="https://github.com/LehLapa/Projeto470SP/wiki/Desenvolvimento-Fase-4"> Desenvolvimento Fase: Catedral da Sé <a>
+
+# Gameplay Completa 
+
+- O link irá te redirecionar para a plataforma Youtube.
+
+- <a href="https://www.youtube.com/watch?v=WqXq81UbVvE"> Gameplay, Jogo Completo <a>
